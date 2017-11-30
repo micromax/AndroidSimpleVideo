@@ -125,9 +125,8 @@ public class FullscreenActivity extends AppCompatActivity {
         // are available.
         delayedHide(100);
 
-        //http://89.236.17.10:2929/Al_Arabia_Hadath/index.m3u8
-        //http://89.236.17.9/ts/2017-11-26-1-Al_Arabia_Hadath.ts
-        playchannel(video , "http://89.236.17.9/ts/2017-11-26-1-Al_Arabia_Hadath.ts");
+
+        playchannel(video , "URL Hear ?");
 
 
 
